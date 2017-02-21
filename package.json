@@ -1,0 +1,23 @@
+{"basic": {
+	"001": {
+			"front": "In football, how many points do you get for a safety?",
+			"back": "2"
+	},
+	"002": {
+		"front": "Who did Ringo Starr replace in The Beatles?",
+		"back": "Pete Best"
+	},
+	"003": {
+		"front": "How many pennyweights are in a troy ounce?",
+		"back": "20"
+	},
+	"004": {
+		"front": "What was the last year the U.S. minted 90% silver coins for circulation?",
+		"back": "1964"
+	},
+	"005": {
+		"front": "Other than knowing the year, how can you tell if a nickel is a war nickel?",
+		"back": "It has a mintmark of P, S, or D above the dome on the back."
+	},
+}
+}	
